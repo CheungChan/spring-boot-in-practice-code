@@ -1,4 +1,4 @@
-package com.cheungchan.highlight_springmvc4;
+package com.cheungchan.highlight_springmvc4.web.ch4_3;
 
 import com.cheungchan.highlight_springmvc4.domain.DemoObj;
 import org.springframework.stereotype.Controller;

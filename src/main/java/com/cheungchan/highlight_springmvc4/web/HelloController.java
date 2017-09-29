@@ -1,4 +1,4 @@
-package com.cheungchan.highlight_springmvc4;
+package com.cheungchan.highlight_springmvc4.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
