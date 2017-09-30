@@ -47,6 +47,7 @@ public class MyMvcConfig extends WebMvcConfigurerAdapter {
         registry.addViewController("/index").setViewName("/index");//直接跳转页面，在这里写更简洁集中。
         registry.addViewController("/toUpload").setViewName("/upload");
         registry.addViewController("/converter").setViewName("/converter");
+        registry.addViewController("/sse").setViewName("/sse");
     }
 
     @Bean
