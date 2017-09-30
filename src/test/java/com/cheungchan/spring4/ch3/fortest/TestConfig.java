@@ -1,4 +1,4 @@
-package com.cheungchan.highlight_spring4.ch3.fortest;
+package com.cheungchan.spring4.ch3.fortest;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
